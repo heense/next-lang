@@ -36,12 +36,12 @@ export default function AboutPage() {
           <h2 className="mb-6 text-2xl font-bold">About Me</h2>
           <div className="space-y-4 text-foreground/80">
             <p>
-              Hello! I'm a passionate software developer with expertise in
-              modern web technologies. I love building user-friendly
-              applications and solving complex problems.
+              Hello! Im a passionate software developer with expertise in modern
+              web technologies. I love building user-friendly applications and
+              solving complex problems.
             </p>
             <p>
-              When I'm not coding, you can find me exploring new technologies,
+              When Im not coding, you can find me exploring new technologies,
               contributing to open-source projects, or sharing knowledge with
               the developer community.
             </p>
@@ -76,7 +76,7 @@ export default function AboutPage() {
         <div>
           <h2 className="mb-6 text-2xl font-bold">Get in Touch</h2>
           <p className="mb-6 text-foreground/80">
-            I'm always open to discussing new projects and opportunities.
+            Im always open to discussing new projects and opportunities.
           </p>
           <Button asChild>
             <Link href="mailto:your.email@example.com">Send me an email</Link>
